@@ -2,7 +2,12 @@
 
 The intent of this repo is to deploy successfully Django Q workers on DO App Platform.
 
-To run the app locally:
+## Run Locally
+
+- Install requirements
+```
+pip install -r requirements.txt
+```
 
 - Apply Django Q required migrations
 ```
